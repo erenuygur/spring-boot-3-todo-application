@@ -8,7 +8,7 @@ This is an ENTIRE application for Java Spring Boot built using:
 
 ## Development Instructions
 
-- `git clone https://github.com/wazooinc/spring-boot-3-todo-application.git`
+- `git clone https://github.com/erenuygur/spring-boot-3-todo-application.git`
 - `cd spring-boot-3-todo-application`
 - open in favorite editor, or
 - `mvnw spring-boot:run`
